@@ -1,0 +1,6 @@
+<INICIO>
+
+1. Obtener valores de gastos de perforacion
+2. Detalles gasto de sondaje por metro
+3. Lista de detalles de analisis
+<FIN>
